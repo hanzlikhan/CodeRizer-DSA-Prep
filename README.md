@@ -32,6 +32,6 @@ All materials for DSA prep. session.
 | Session | Topic                    | Summary                         | Folder Link                        |  Recodings
 |---------|--------------------------|---------------------------------|------------------------------------|------------------------------------
 | 01      | Introduction to Python   | Getting started with Python     | [View Folder](sessions/session01)  | [Class 01]() 
-| 02      | Data Types & Variables   | Working with numbers & strings  | [View Folder](sessions/session02)  | [Class 02](https://youtu.be/65HDnvuCz2I?si=y2ZOSn8J1Gj1g2L0)
-| 03      | Conditional Statements   | Writing if/else logic           | [View Folder](sessions/session03)  |
+| 02      | Data Types & Variables   | Working with numbers & strings  | [View Folder](Sessions-DSA-10pm/class 02)  | [Class 02](https://youtu.be/65HDnvuCz2I?si=y2ZOSn8J1Gj1g2L0)
+| 03      | Conditional Statements   | Writing if/else logic           | [View Folder](sessions/session03)  | [Class 02](https://youtu.be/f1P3yLIaFXI)
 
